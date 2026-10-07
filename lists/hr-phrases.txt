@@ -26,6 +26,8 @@ budala zajebana
 budala zajebani
 budalo jedna
 crkva ti materina
+dabog da ti se noge osušile
+dabogda ti se ruke osušile
 danguba glupa
 danguba glupi
 danguba gnusna
@@ -67,7 +69,10 @@ debilu jedan
 deda ti
 derat cu
 derat ću
+djava te odnija
+djava ti glavu izija
 do vraga
+dobra picka
 dodrkat cu
 dodrkat ću
 dogovnarat cu
@@ -191,6 +196,7 @@ glupan smrdljiva
 glupan smrdljivi
 glupan zajebana
 glupan zajebani
+glupi majmune
 glupko glupa
 glupko glupi
 glupko gnusna
@@ -380,8 +386,10 @@ jebac smrdljiva
 jebac smrdljivi
 jebac zajebana
 jebac zajebani
+jebal te bik
 jebancat cu
 jebancat ću
+jebao ga japanac
 jebat cu
 jebat ću
 jebcat cu
@@ -432,6 +440,7 @@ jebem li ti kosti
 jebem li ti krv
 jebem li ti kum
 jebem li ti kuma
+jebem li ti mamicu
 jebem li ti mater
 jebem li ti mladjeg brata
 jebem li ti mladju sestru
@@ -480,10 +489,14 @@ jebem mu svekrva
 jebem mu tetku
 jebem mu ujaka
 jebem mu zenu
+jebem te glupa
+jebem te u dupe
 jebem ti
 jebem ti babu
 jebem ti baku
+jebem ti boga
 jebem ti brata
+jebem ti cicu materinu
 jebem ti cijelu familiju
 jebem ti crkvu
 jebem ti deda
@@ -493,23 +506,35 @@ jebem ti dusu
 jebem ti dušu
 jebem ti familiju
 jebem ti kosti
+jebem ti kru
+jebem ti kruh
 jebem ti krv
+jebem ti krv mlade rode
+jebem ti krvavo jaje
 jebem ti kum
 jebem ti kuma
 jebem ti mater
+jebem ti mater u usta
+jebem ti milijun bogova
 jebem ti mladjeg brata
 jebem ti mladju sestru
+jebem ti mliko materino
+jebem ti mrtvu mater
 jebem ti muza
 jebem ti oca
+jebem ti pleme
 jebem ti potomke
 jebem ti predke
 jebem ti punicu
 jebem ti roditelje
 jebem ti sestru
+jebem ti smrt do smrti pa ne mogu umrijeti
 jebem ti starijeg brata
 jebem ti stariju sestru
 jebem ti strica
+jebem ti strinu
 jebem ti sunce
+jebem ti sve po spisku
 jebem ti svekrva
 jebem ti tetku
 jebem ti ujaka
@@ -547,6 +572,8 @@ jebem vam tetku
 jebem vam ujaka
 jebem vam zenu
 jebemu mater
+jebena seljacina
+jebeni seljak
 jebi ga
 jebi ih
 jebi je
@@ -555,6 +582,8 @@ jebi nas
 jebi od mene
 jebi odavde
 jebi se
+jebi se pitcka
+jebi si mater
 jebi vas
 jebiga bre
 jebo im babu
@@ -619,12 +648,19 @@ jebo mu svekrva
 jebo mu tetku
 jebo mu ujaka
 jebo mu zenu
+jebo sliku svoju
 jebo te bog
 jebo te crkva
+jebo te dedo
+jebo te ja
 jebo te pas
+jebo te patak
 jebo te vrag
 jebo ti babu
 jebo ti baku
+jebo ti bog mater
+jebo ti bog mrtvu majku
+jebo ti bog mrtvu mater
 jebo ti brata
 jebo ti cijelu familiju
 jebo ti deda
@@ -633,6 +669,9 @@ jebo ti djecu
 jebo ti dusu
 jebo ti dušu
 jebo ti familiju
+jebo ti isus mater
+jebo ti ja mater glupu
+jebo ti konj mater
 jebo ti kosti
 jebo ti krv
 jebo ti kum
@@ -642,6 +681,7 @@ jebo ti mladjeg brata
 jebo ti mladju sestru
 jebo ti muza
 jebo ti oca
+jebo ti pas mater
 jebo ti potomke
 jebo ti predke
 jebo ti punicu
@@ -653,6 +693,7 @@ jebo ti strica
 jebo ti svekrva
 jebo ti tetku
 jebo ti ujaka
+jebo ti vrag mater
 jebo ti zenu
 jebo vam babu
 jebo vam baku
@@ -685,15 +726,22 @@ jebo vam svekrva
 jebo vam tetku
 jebo vam ujaka
 jebo vam zenu
+jebote led
 jebote more
+jebote onaj koji te napravio
 jebote sunce
 jebote u usta
 jebote zemlja
 jebuckat cu
 jebuckat ću
+jedi govna
+jedi govna, pusi kurac
+jedi kurac
 kcer kurva
 kcer picka
 kcer pizda
+ko te jebe glupane
+ko te napravija tako glupa
 koja dupe
 koja guz
 koja guzicu
@@ -775,6 +823,7 @@ kurac gnusno
 kurac jedan
 kurac jedna
 kurac jedno
+kurac od ovce
 kurac odvratna
 kurac odvratni
 kurac odvratno
@@ -838,6 +887,7 @@ kurvin sinima
 kurvin sinom
 kurvin sinu
 kurvo jedna
+kurvo jedna izlizana
 lijenac glupa
 lijenac glupi
 lijenac gnusna
@@ -868,6 +918,10 @@ loser smrdljiva
 loser smrdljivi
 loser zajebana
 loser zajebani
+ma tko te jebe
+mama ti je kurva
+mars u picku materinu
+mater te sahranila
 mater ti
 mater ti jebem
 mater ti jebem babu
@@ -908,6 +962,8 @@ mrcat cu
 mrcat ću
 mrdat cu
 mrdat ću
+na alatki te nosam
+nabijem te na kurac
 nacupam ga
 nacupam ih
 nacupam je
@@ -1089,6 +1145,7 @@ odjebat cu
 odjebat ću
 odjebavat cu
 odjebavat ću
+odjebi budaletino
 odjebi ga
 odjebi ih
 odjebi je
@@ -1196,6 +1253,8 @@ pacor smrdljivi
 pacor zajebana
 pacor zajebani
 pakao te jebo
+pakirač gluposti
+pas mater
 peder glupa
 peder glupi
 peder glupo
@@ -1336,6 +1395,7 @@ pizdun smrdljiva
 pizdun smrdljivi
 pizdun zajebana
 pizdun zajebani
+piã ka ti se zgadila
 pičkat cu
 pičkat ću
 poddrkat cu
@@ -1430,6 +1490,7 @@ polizi picku
 polizi pizdu
 polizi sise
 polizi usta
+poljubi me u guzicu
 polomi ga
 polomi ih
 polomi je
@@ -1441,6 +1502,8 @@ popizdat cu
 popizdat ću
 popusat cu
 popusat ću
+popusi mi ga pizdo
+popusi mi kurac
 poserat cu
 poserat ću
 posevat cu
@@ -1698,6 +1761,7 @@ puni usta usta
 pusat cu
 pusat ću
 pusi dupe
+pusi duvaj ovce cuvaj
 pusi guz
 pusi guzicu
 pusi jaja
@@ -1717,6 +1781,7 @@ puši picku
 puši pizdu
 puši sise
 puši usta
+rane te zaletile ljute
 razdrkat cu
 razdrkat ću
 razgovnarat cu
@@ -1875,6 +1940,7 @@ smrad zajebani
 smrad zajebano
 smrdi na govno
 smrdi na sranje
+smrdljiva picka
 sranje glupa
 sranje glupi
 sranje glupo
@@ -2110,6 +2176,7 @@ tucat ću
 tuci ga
 tuci ih
 tuci je
+tvoja sestre ima velike kurac
 u dupe
 u dupe materinu
 u guz
@@ -2196,6 +2263,7 @@ usvrsat ću
 uusrat cu
 uusrat ću
 vrag te jebo
+vrag ti kosti glodao
 vretat cu
 vretat ću
 vriskat cu
@@ -2222,7 +2290,9 @@ zajebi nas
 zajebi od mene
 zajebi odavde
 zajebi se
+zajebi to stari
 zajebi vas
+zakachis mi se za kitu
 zakurat cu
 zakurat ću
 zamrdat cu

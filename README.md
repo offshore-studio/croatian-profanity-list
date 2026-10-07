@@ -83,10 +83,19 @@ word boundaries / allowlists accordingly.
 
 **Not** for generating abuse, doxxing, or targeting protected groups.
 
+## Credits
+
+See [CREDITS.md](CREDITS.md). In particular, **148** Croatian terms were
+merged from [LDNOOBW V2 `data/hr.txt`](https://github.com/LDNOOBWV2/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words_V2/blob/main/data/hr.txt)
+(CC0) to fill gaps in our curated lists.
+
 ## License
 
 [MIT](LICENSE) — © 2026 Ivan Miskic. Keep the copyright notice when
 redistributing.
+
+Upstream LDNOOBW V2 material remains under CC0 (public domain dedication);
+attribution is still given in CREDITS for clarity.
 
 ## Contributing
 
