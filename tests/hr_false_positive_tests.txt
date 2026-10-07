@@ -1,0 +1,23 @@
+# Legitimate Croatian search queries that must NOT be blocked (one per line).
+# Used by null:profanity:test and PHPUnit regression checks.
+golf club
+nike tenisice
+adidas kopačke
+kurir dostava
+serija filmova
+servis bicikla
+download aplikacija
+riba hranilica
+jaje organic
+kakao prah
+debata forum
+glavni grad
+romantika
+frajer jakna
+zenica proizvoda
+mongolija putovanje
+bum akcija
+pick up
+serena williams
+rat i mir
+serbian film

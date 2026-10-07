@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
+*.swp
+.pytest_cache/
+
+# Full JSON exceeds GitHub's 100 MB file limit; regenerate locally.
+# CSV / TXT / regex under data/ are still published.
+data/profanity.json
