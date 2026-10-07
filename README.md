@@ -7,11 +7,28 @@ hate-related terms in Croatian and related South Slavic forms. It exists for
 Open, MIT-licensed wordlists and a small Python pipeline to regenerate them.
 Covers Croatian (`HR`) lemmas with regional overlap for `BA` / `RS` / `ME`.
 
+## Live companion: Psovke
+
+**Website:** [https://offshore.studio/psovke/](https://offshore.studio/psovke/)
+
+[Psovke](https://offshore.studio/psovke/) (“Hall of Shame”) is a public
+collector of Croatian curse words: submit a psovka, get a **brutometar** score
+(0–100), vote on the rang lista, react, share, and roast. Strong community
+submissions are meant to feed and stress-test this open dataset — for comedy
+and for better moderation signals, not for harassing people.
+
+| | |
+|--|--|
+| App | [offshore.studio/psovke](https://offshore.studio/psovke/) |
+| Export API | [`/psovke/api/export`](https://offshore.studio/psovke/api/export) |
+| About | [offshore.studio/psovke/about](https://offshore.studio/psovke/about) |
+
 ## Why this exists
 
 Public English profanity lists are common; Croatian coverage is thin. This
 project publishes curated seed lemmas plus expanded surface forms suitable for
 blocking or flagging user-generated text (search queries, reviews, comments).
+The Psovke site is the playful front door; this repo is the durable wordlist.
 
 ## Quick start (use the lists)
 
@@ -80,6 +97,7 @@ word boundaries / allowlists accordingly.
 - Search-query and UGC moderation
 - Training / evaluating NLP filters
 - Research on South Slavic offensive language
+- Crowdsourced discovery via [Psovke](https://offshore.studio/psovke/) (vote-ranked candidates for list review)
 
 **Not** for generating abuse, doxxing, or targeting protected groups.
 
